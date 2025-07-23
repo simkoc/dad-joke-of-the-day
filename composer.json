@@ -1,0 +1,9 @@
+{
+    "name": "halcony/dad-joke-of-the-day",
+    "type": "library",
+    "licence" : "MIT Licence",
+    "description": "Provides you with a random dad joke",
+    "require": {
+        "php": ">=8.0",
+    }
+}

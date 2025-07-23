@@ -14,6 +14,4 @@ function dadJoke() {
 	 return $jokes[$rand_key] . "\n";
 }
 
-echo dadJoke();
-
 ?>

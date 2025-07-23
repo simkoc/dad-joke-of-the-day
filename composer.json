@@ -1,6 +1,6 @@
 {
     "name": "halcony/dad-joke-of-the-day",
-    "version" : "1.0.0",
+    "version" : "1.0.1",
     "type": "library",
     "licence" : "MIT Licence",
     "description": "Provides you with a random dad joke",
